@@ -19,3 +19,8 @@ HEY GUYZ 🙂💖
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/safxr._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safxr._" height="30" width="40" /></a> <a href="https://youtube.com/channel/UCZw889vv9DKwbjLSdc2DxpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="safxr._" height="30" width="40" /></a><a href="https://Wa.me/918075641889?text=Hey%20Jackz%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="safxr._" height="30" width="40" /></a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jackz-ser&label=Profile%20views&color=0e75b6&style=flat" alt="Jackz-ser" /> </p>
+
+
