@@ -12,9 +12,9 @@ HEY GUYZ 🙂💖
 - 📫 Reach me through whatsapp 
 - ⚡ Fun fact: There is no fun fact that is the fun fact
 
-My personal website
+`My personal website`
 
-<a href="https://jackz-github-io.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/chrome.svg" alt="Jackz Web" height="30" width="40" /></a> 
+<a href="https://jackz-github-io.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Jackz Web" height="30" width="40" /></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
