@@ -11,3 +11,8 @@ HEY GUYZ 🙂💖
 - 💬 Ask me about anything but i dont anything
 - 📫 Reach me through whatsapp 
 - ⚡ Fun fact: There is no fun fact that is the fun fact
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/safxr._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safxr._" height="30" width="40" /></a> <a href="https://youtube.com/channel/UCZw889vv9DKwbjLSdc2DxpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="safxr._" height="30" width="40" /></a><a href="Wa.me/918075641889?text=Hey%20Jackz%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="safxr._" height="30" width="40" /></a>
